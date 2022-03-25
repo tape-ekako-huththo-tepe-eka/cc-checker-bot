@@ -1,8 +1,1 @@
-{
-    "name": "Damantha126/cc-checker-bot",
-    "type": "project",
-    "require": {
-        "php": ">=7.3",
-        "longman/telegram-bot": "*"
-    }
-}
+{}
